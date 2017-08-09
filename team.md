@@ -6,21 +6,21 @@ Emeritus professor and director of the Rochester Center for Brain Imaging at the
 #### Laurie Bayet
 <img align="left" src="https://avatars1.githubusercontent.com/u/7031064?v=4&s=100" alt="Laurie Bayet Github profile photo" style="margin: 5px 15px 5px 0px;">
 
-(@lauriebayet) 
+@lauriebayet
 
 A postdoctoral research fellow at Boston Children’s Hospital and Harvard Medical School. She was a postdoctoral research associate at the University of Rochester, and received a Ph.D. from the University of Grenoble. Her work uses behavioral methods, computational tools, EEG, and fNIRS to examine changes in visual representations unfolding from infancy to adulthood with an emphasis on face and facial emotion perception development.
 
 #### Chengyu 'Jeremy' Deng 
 <img align="left" src="https://avatars0.githubusercontent.com/u/16890579?v=4&s=100" alt="Chengyu Deng Github profile photo" style="margin: 5px 15px 5px 0px;">
 
-(@chengyu06242013)
+@chengyu06242013
 
 A graduate student in Computer Science. Chengyu completed his Bachelor's degree at the University of Rochester, where he worked in the Raizada Lab developing software tools for fNIRS analysis.
 
 #### Lauren L. Emberson
 <img align="left" src="https://avatars3.githubusercontent.com/u/7785098?v=4&s=100" alt="Lauren Emberson Github profile photo" style="margin: 5px 15px 5px 0px;">
 
-(@laurenemberson)
+@laurenemberson
 
 Assistant Professor in the Psychology Department at Princeton University. Received her Ph.D. at Cornell University and was a postdoctoral research associate at University of Rochester. Her work uses fNIRS, as well as behavioral methods, to investigate perceptual development and learning in young infants. Prof. Emberson’s research consistently pushes both theoretical and methodological or technical boundaries with the ultimate goal of understanding how experience supports development. 
 
@@ -30,7 +30,7 @@ Assistant Professor in the Department of Brain & Cognitive Sciences at the Unive
 #### Benjamin D. Zinszer
 <img align="left" src="https://avatars0.githubusercontent.com/u/14100363?v=4&s=100" alt="Benjamin Zinszer Github profile photo" style="margin: 5px 15px 5px 0px;">
 
-(@bzinszer)
+@bzinszer
 
 Reasearch Associate in the SoundBrain Lab at the University of Texas at Austin. Ben was previously a postdoc at the Rochester Center for Brain Imaging (University of Rochester) in the Raizada and Rochester Baby Labs. He received his PhD in Psychology at Penn State University, studying the effects of cross-language interaction in Chinese-English bilinguals. His work explores linguistic categories, neural semantic representations, and the development of these structures in
 536 monolingual and bilingual learners. His work is available at www.benjaminz.com.
