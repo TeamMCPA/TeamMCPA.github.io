@@ -9,10 +9,7 @@ Emeritus professor and director of the Rochester Center for Brain Imaging at the
 
 #### Chengyu 'Jeremy' Deng 
 <img align="left" src="https://avatars0.githubusercontent.com/u/16890579?v=4&s=100" alt="Chengyu Deng Github profile photo" style="margin: 5px 15px 5px 0px;">
-@chengyu06242013, A graduate student in Computer Science. Chengyu completed his Bachelor's degree at the University of Rochester, where he worked in the Raizada Lab developing software tools for fNIRS analysis.
-
-
-
+@chengyu06242013, A graduate student in Computer Science. Chengyu completed bachelor's degrees in Applied Mathematics and Financial Economics at the University of Rochester. During his undergraduate education, he also worked in the Raizada Lab at the Rochester Center for Brain Imaging, developing software tools for processing fNIRS data and performing multivariate pattern analyses.
 
 #### Lauren L. Emberson
 <img align="left" src="https://avatars3.githubusercontent.com/u/7785098?v=4&s=100" alt="Lauren Emberson Github profile photo" style="margin: 5px 15px 5px 0px;">
