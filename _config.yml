@@ -1,7 +1,7 @@
 title: Team MCPA
 description: Software from Team MCPA (for multivariate pattern analysis of fNIRS data)
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
