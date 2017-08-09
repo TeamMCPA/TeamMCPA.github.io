@@ -1,4 +1,4 @@
-##<strike>Multichannel</strike> Multivariate Pattern Analysis for fNIRS
+## ~~Multichannel~~ Multivariate Pattern Analysis for fNIRS
 
 ### Projects
 - [EmbersonZinszerMCPA](http://teammcpa.github.io/EmbersonZinszerMCPA/) - software accompanying Emberson, L., Zinszer, B. D., Raizada, R. D. S., &amp; Aslin, R. (2017). Decoding the infant mind: Multivariate pattern analysis (MVPA) using fNIRS. *PLoS ONE, 12*(4): e0172500. doi:10.1371/journal.pone.0172500
