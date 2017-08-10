@@ -1,3 +1,5 @@
+[\[Home\]](index.html) \| [\[Team\]](team.html)
+
 ### Projects
 - [**EmbersonZinszerMCPA**](http://teammcpa.github.io/EmbersonZinszerMCPA/) - software accompanying Emberson, L., Zinszer, B. D., Raizada, R. D. S., &amp; Aslin, R. (2017). Decoding the infant mind: Multivariate pattern analysis (MVPA) using fNIRS. *PLoS ONE, 12*(4): e0172500. doi:10.1371/journal.pone.0172500
 - [**Semantic_Decoding_2017**](http://teammcpa.github.io/Semantic_Decoding_2017/) - software accompanying Zinszer, B. D., Bayet, L., Emberson, L. E., Raizada, R. D. S., &amp; Aslin, R. N. Decoding semantic representations from fNIRS signals. *Neurophotonics,* in press. See also our [SfNIRS 2016 demo & poster](http://benjaminz.com/SfNIRS-2016-demo).
