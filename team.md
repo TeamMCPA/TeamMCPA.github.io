@@ -1,4 +1,4 @@
-[\[Home\]](index.html) \| [\[Team\]](team.html)
+[\[Home\]](index.html) - [\[Team\]](team.html)
 
 ### TeamMCPA Contributors
 
