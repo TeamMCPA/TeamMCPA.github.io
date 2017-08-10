@@ -1,4 +1,4 @@
-### Authors and Contributors
+### TeamMCPA Contributors
 
 #### Richard N. Aslin
 Emeritus professor and director of the Rochester Center for Brain Imaging at the University of Rochester. He has conducted research on human infants and adults at the behavioral and neural levels for the past 40 years, including studies of statistical learning, spoken word recognition, and sensory-motor control. He led a consortium that pioneered the use of fNIRS with infants in the 2000’s and is a member of the National Academy of Sciences.
