@@ -3,7 +3,8 @@
 ### TeamMCPA Contributors
 
 #### Richard N. Aslin
-Emeritus professor and director of the Rochester Center for Brain Imaging at the University of Rochester. He has conducted research on human infants and adults at the behavioral and neural levels for the past 40 years, including studies of statistical learning, spoken word recognition, and sensory-motor control. He led a consortium that pioneered the use of fNIRS with infants in the 2000’s and is a member of the National Academy of Sciences.
+<img align="left" src="images/aslin_headshot.jpg" alt="Richard Aslin photo" width="100px" style="margin: 5px 15px 5px 0px;">
+Senior Scientist at Haskins Laboratories and affiliated with the Psychology Departments at Yale and the University of Connecticut (formerly Emeritus professor and Director of the Rochester Center for Brain Imaging at the University of Rochester). He has conducted research on human infants and adults at the behavioral and neural levels for the past 40 years, including studies of statistical learning, spoken word recognition, and sensory-motor control. He led a consortium that pioneered the use of fNIRS with infants in the 2000’s and is a member of the National Academy of Sciences.
 
 #### Laurie Bayet
 <img align="left" src="https://avatars1.githubusercontent.com/u/7031064?v=4&s=100" alt="Laurie Bayet Github profile photo" style="margin: 5px 15px 5px 0px;">
