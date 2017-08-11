@@ -18,7 +18,7 @@ Emeritus professor and director of the Rochester Center for Brain Imaging at the
 @laurenemberson, Assistant Professor in the Psychology Department at Princeton University. Received her Ph.D. at Cornell University and was a postdoctoral research associate at University of Rochester. Her work uses fNIRS, as well as behavioral methods, to investigate perceptual development and learning in young infants. Prof. Emberson’s research consistently pushes both theoretical and methodological or technical boundaries with the ultimate goal of understanding how experience supports development. 
 
 #### Rajeev D.S. Raizada
-<img align="left" src="images/raizada_headshot.jpg" alt="Rajeev Raizada photo" height="100px" style="margin: 5px 15px 5px 0px;">
+<img align="left" src="images/raizada_headshot.jpg" alt="Rajeev Raizada photo" width="100px" style="margin: 5px 15px 5px 0px;">
 Assistant Professor in the Department of Brain & Cognitive Sciences at the University of Rochester. He works in the development of neural decoding approaches for fMRI data, with application in particular to decoding semantic information from words and sentences. In this collaboration, he is excited to be able to extend such work from fMRI to fNIRS. More information about his work can be found at [http://raizadalab.org](http://raizadalab.org).
 
 #### Benjamin D. Zinszer
