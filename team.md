@@ -21,13 +21,13 @@ Assistant Professor in the Psychology Department at Hamilton College.
 @laurenemberson, Assistant Professor in the Psychology Department at the University of British Columbia. Received her Ph.D. at Cornell University and was a postdoctoral research associate at University of Rochester. Her work uses fNIRS, as well as behavioral methods, to investigate perceptual development and learning in young infants. Prof. Emberson’s research consistently pushes both theoretical and methodological or technical boundaries with the ultimate goal of understanding how experience supports development. 
 
 #### Anna Herbolzheimer
-Research staff at Princeton University
+Former research staff at Princeton University
 
 #### Claire Kabdebon
 Postdoctoral Fellow at Haskins Laboratories
 
 #### Naiqi Gabriel Xiao
-<img align="left" src="https://avatars3.githubusercontent.com/u/10648723?v=4&s=100" alt="Gabriel Xiao Github profile photo" style="margin: 5px 15px 5px 0px;">
+<img align="left" src="https://avatars1.githubusercontent.com/u/10648723?v=4&s=100" alt="Gabriel Xiao Github profile photo" style="margin: 5px 15px 5px 0px; max-width:100px;">
 Assistant Professor in Psychology, Neuroscience & Behaviour at McMaster University
 
 #### Alice F. Wang
@@ -35,7 +35,7 @@ Research Associate in the Baby Lab at Haskins Laboratories
 
 #### Benjamin D. Zinszer
 <img align="left" src="https://avatars0.githubusercontent.com/u/14100363?v=4&s=100" alt="Benjamin Zinszer Github profile photo" style="margin: 5px 15px 5px 0px;">
-@bzinszer, Research Associate in the BOLD Lab at the University of Delaware & in the Princeton Baby Lab. Ben was previously a research associate at the University of Texas at Austin and a postdoc at the Rochester Center for Brain Imaging (University of Rochester) in the Raizada and Rochester Baby Labs. He received his PhD in Psychology at Penn State University, studying the effects of cross-language interaction in Chinese-English bilinguals. His work explores linguistic categories, neural semantic representations, and the development of these structures in monolingual and bilingual learners. His work is available at [http://benjaminz.com](http://benjaminz.com).
+@bzinszer, Visiting Assistant Professor in Psychology at Swarthmore College. Ben was previously a Research Associate in the BOLD Lab at the University of Delaware & in the Princeton Baby Lab. He received his PhD in Psychology at Penn State University, studying the effects of cross-language interaction in Chinese-English bilinguals. His work explores linguistic categories, neural semantic representations, and the development of these structures in monolingual and bilingual learners. His work is available at [http://benjaminz.com](http://benjaminz.com).
 
 --------
 
