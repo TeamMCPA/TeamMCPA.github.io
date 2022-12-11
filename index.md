@@ -1,6 +1,6 @@
 [\[Home\]](index.html) \| [\[Team\]](team.html)
 
-### SfNIRS 2022 Files
+### SfNIRS 2022 Mini-Course Files
 Download the files for our tutorial [here](https://drive.google.com/drive/folders/1GutVh7Av33zaY3FzjUB2A491XnM5MXF8?usp=sharing) (Google Drive directory).
 
 Download the repository branch for this tutorial session [here](https://github.com/TeamMCPA/Consortium-Analyses/archive/refs/heads/SfNIRS_2022.zip) (Github .zip download).
