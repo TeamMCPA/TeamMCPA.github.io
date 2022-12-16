@@ -1,9 +1,10 @@
 [\[Home\]](index.html) \| [\[Team\]](team.html)
 
-### SfNIRS 2022 Mini-Course Files
-Download the files for our tutorial [here](https://drive.google.com/drive/folders/1GutVh7Av33zaY3FzjUB2A491XnM5MXF8?usp=sharing) (Google Drive directory).
-
-Download the repository branch for this tutorial session [here](https://github.com/TeamMCPA/Consortium-Analyses/archive/refs/heads/SfNIRS_2022.zip) (Github .zip download).
+### Educational materials on multivariate pattern analysis
+In October 2022, we presented a three hour educational mini-course at the SfNIRS biannual meeting. In December, we presented a free webinar organized by the SfNIRS educational committee. You can find the materials below. (A recording of the webinar will be available on the [SfNIRS website](https://fnirs.org/events/educational-tutorials/).)
+- Download the slides from the webinar [here](https://github.com/TeamMCPA/TeamMCPA.github.io/raw/master/Slides_MVPA_and_fNIRS_forWeb.pdf) (PDF, 4.5 MB)
+- Download the files for our hands-on tutorial [here](https://drive.google.com/drive/folders/1GutVh7Av33zaY3FzjUB2A491XnM5MXF8?usp=sharing) (Google Drive directory).
+- Download the repository branch for this tutorial session [here](https://github.com/TeamMCPA/Consortium-Analyses/archive/refs/heads/SfNIRS_2022.zip) (Github .zip download).
 
 ### Projects
 - **fNIRS 2021 poster session** - Find a digital copy of our poster [here](images/112_Herbolzheimer.png) and our [preregistered analysis plan](https://osf.io/rj38w/?view_only=91e136948fab40cf9e8489d611abce79) on OSF.io. More to follow when the paper comes out!
