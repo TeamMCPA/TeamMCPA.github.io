@@ -1,9 +1,13 @@
 [\[Home\]](index.html) \| [\[Team\]](team.html) \| [\[Education\]](educ.html)
 
+<img align="right" src="images/sfnirs_lauren2_oct2022_web.jpg" alt="Lauren Emberson speaking at SfNIRS 2022" width="250px" style="margin: 5px 15px 5px 0px;">
+
 ### Events
 You can find [downloadable educational materials](#educational-materials) from the following presentations below.<br> 
 - **14 December 2022** We presented a free webinar organized by the SfNIRS educational committee. ([Recording](https://fnirs.org/events/educational-tutorials/) hosted by [SfNIRS](https://fnirs.org).)<br> 
 - **9 October 2022** We presented a three hour educational mini-course at the SfNIRS biannual meeting in Boston, MA, USA. 
+
+<p style='clear:both;'></p>
 
 ## Educational Materials 
 ### Multivariate pattern analysis for fNIRS
